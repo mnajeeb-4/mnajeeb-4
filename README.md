@@ -10,50 +10,7 @@
 
 <div align="center">
 
-### 🚀 Building the Future with AI, Python & Automation
-
-💡 Passionate about creating intelligent automation systems powered by Python and Generative AI.
-
-🔹 AI Automation  
-🔹 RAG Applications  
-🔹 Python Development  
-🔹 Machine Learning  
-🔹 Web Automation  
-🔹 Data Analysis
-
 ---
-
-<img src="https://komarev.com/ghpvc/?username=mnajeeb-4&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/mnajeeb-4?style=for-the-badge&logo=github&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/mnajeeb-4?style=for-the-badge&logo=github&color=06B6D4"/>
-
-</div>
-
----
-
-## 🌌 About Me
-
-```python
-class MuhammadNajeeb:
-
-    def __init__(self):
-        self.name = "Muhammad Najeeb Brohi"
-        self.role = "AI Automation Engineer"
-        self.language = "Python"
-        self.learning = [
-            "Generative AI",
-            "RAG Integration",
-            "Automation",
-            "Machine Learning"
-        ]
-
-    def mission(self):
-        return "Building smart AI solutions that solve real-world problems."
-```
-
-> **"Code with purpose. Build with AI. Never stop learning."** 🚀
 
 # ⚡ Tech Stack & Skills
 
@@ -94,18 +51,6 @@ class MuhammadNajeeb:
 
 </div>
 
----
-
-# 🚀 Current Focus
-
-- 🤖 Building AI Automation Systems
-- 🧠 Learning Advanced RAG Architectures
-- ⚡ Developing Python Automation Tools
-- 🌐 Creating Intelligent Web Automation
-- 📊 Exploring Machine Learning & Data Analysis
-- 🔥 Improving Open Source Projects
-
----
 
 <div align="center">
 
@@ -132,48 +77,7 @@ class MuhammadNajeeb:
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mnajeeb-4&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mnajeeb-4&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Note:** Is animation ko chalane ke liye GitHub Actions setup karna hota hai.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mnajeeb-4/mnajeeb-4/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 *"Every commit is another step toward building the future with AI."* 🚀
-
-</div>
-# 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -185,8 +89,6 @@ class MuhammadNajeeb:
 | 💻 Machine Learning Projects | Classification and prediction models | Scikit-learn • Pandas |
 
 </div>
-
----
 
 # 🌍 Connect With Me
 
@@ -205,21 +107,6 @@ class MuhammadNajeeb:
 </a>
 
 </div>
-
-> **Replace the LinkedIn URL and email with your own.**
-
-# 💡 Developer Quote
-
-<div align="center">
-
-> **"Turning ideas into intelligent software, one commit at a time."**
-
-</div>
-
----
-
-<div align="center">
-
 ### ⭐ If you like my work, consider following my GitHub profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED,06B6D4&section=footer"/>
