@@ -1,16 +1,243 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mnajeeb-4/mnajeeb-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Muhammad Najeeb Brohi
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Python+Developer;GenAI+%26+RAG+Enthusiast;Building+Intelligent+Automation+Solutions;Always+Learning+%F0%9F%9A%80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building the Future with AI, Python & Automation
+
+💡 Passionate about creating intelligent automation systems powered by Python and Generative AI.
+
+🔹 AI Automation  
+🔹 RAG Applications  
+🔹 Python Development  
+🔹 Machine Learning  
+🔹 Web Automation  
+🔹 Data Analysis
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=mnajeeb-4&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/mnajeeb-4?style=for-the-badge&logo=github&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/mnajeeb-4?style=for-the-badge&logo=github&color=06B6D4"/>
+
+</div>
+
+---
+
+## 🌌 About Me
+
+```python
+class MuhammadNajeeb:
+
+    def __init__(self):
+        self.name = "Muhammad Najeeb Brohi"
+        self.role = "AI Automation Engineer"
+        self.language = "Python"
+        self.learning = [
+            "Generative AI",
+            "RAG Integration",
+            "Automation",
+            "Machine Learning"
+        ]
+
+    def mission(self):
+        return "Building smart AI solutions that solve real-world problems."
+```
+
+> **"Code with purpose. Build with AI. Never stop learning."** 🚀
+
+
+# ⚡ Tech Stack & Skills
+
+<div align="center">
+
+### 🧠 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,git,github,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 AI & Automation
+
+<img src="https://img.shields.io/badge/AI%20Automation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Integration-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-0EA5E9?style=for-the-badge"/>
+
+---
+
+### 💻 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Building AI Automation Systems
+- 🧠 Learning Advanced RAG Architectures
+- ⚡ Developing Python Automation Tools
+- 🌐 Creating Intelligent Web Automation
+- 📊 Exploring Machine Learning & Data Analysis
+- 🔥 Improving Open Source Projects
+
+---
+
+<div align="center">
+
+## ✨ Developer Mindset
+
+> **"I don't just write code. I build intelligent solutions that automate real-world problems."**
+
+</div>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mnajeeb-4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mnajeeb-4&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnajeeb-4&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mnajeeb-4&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mnajeeb-4&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Note:** Is animation ko chalane ke liye GitHub Actions setup karna hota hai.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mnajeeb-4/mnajeeb-4/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 *"Every commit is another step toward building the future with AI."* 🚀
+
+</div>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 AI Attendance Management System | QR-based attendance system with Student & Teacher Dashboard | Python • Streamlit • AI |
+| 🧠 AI Automation Toolkit | Intelligent automation tools for repetitive tasks | Python • Selenium • APIs |
+| 🌐 Web Automation Bot | Automated form filling and browser automation | Selenium • Python |
+| 📊 Smart Data Analyzer | CSV analysis and visualization dashboard | Pandas • NumPy • Matplotlib |
+| 🤖 RAG AI Assistant | Retrieval-Augmented Generation chatbot | Python • RAG • LLM |
+| 💻 Machine Learning Projects | Classification and prediction models | Scikit-learn • Pandas |
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mnajeeb-4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+> **Replace the LinkedIn URL and email with your own.**
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become an AI Automation Engineer
+- 🤖 Build production-ready AI applications
+- 🧠 Master RAG & LLM development
+- ⚡ Contribute to Open Source
+- 🌍 Collaborate on global AI projects
+- 💼 Work with international companies
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+> **"Turning ideas into intelligent software, one commit at a time."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following my GitHub profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED,06B6D4&section=footer"/>
+
+</div>
