@@ -91,7 +91,3 @@
 
 </div>
 ### ⭐ If you like my work, consider following my GitHub profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7C3AED,06B6D4&section=footer"/>
-
-</div>
