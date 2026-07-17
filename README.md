@@ -54,23 +54,6 @@
 
 <div align="center">
 
-## ✨ Developer Mindset
-
-> **"I don't just write code. I build intelligent solutions that automate real-world problems."**
-
-</div>
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mnajeeb-4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mnajeeb-4&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnajeeb-4&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
