@@ -1,56 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=glass&color=auto&height=250&section=header&text=M.%20Najeeb&fontSize=70&animation=fadeIn&fontAlignY=45" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=glass&color=00f2fe&secondaryColor=4facfe&height=280&section=header&text=M.%20NAJEEB&fontSize=75&animation=twinkling&fontAlignY=40&desc=GENAI%20%26%20AUTOMATION%20ARCHITECT&descAlignY=65&descFontSize=22" width="100%" />
 
-# ⚡ WELCOME TO MY DIGITAL REALM ⚡
+# 🪐 WELCOME TO THE FUTURE OF AUTONOMOUS SYSTEMS 🪐
 
-### 🛠️ Full-Stack Developer | Tech Enthusiast | Problem Solver
+### 🧠 Senior AI Engineer | GenAI & RAG Architect | Hyper-Automation Expert
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-Glassmorphism-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power-Xtreme-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-Elite%20Tier-blueviolet?style=for-the-badge&logo=cpu" />
+  <img src="https://img.shields.io/badge/GenAI-Production%20Ready-00f2fe?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Architecture-Xtreme%20RAG-matrix?style=for-the-badge&logo=databricks" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Najeeb LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Najeeb Instagram" height="30" width="40" /></a>
+  <a href="https://linkedin.com" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mnajeeb-4" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🖥️ Tech Stack & Arsenal
-Modern and powerful tools jo main use karta hoon:
+## 🤖 AI Automation & GenAI Ecosystem
 
-### 🚀 Languages & Frameworks
+> **Architecting the next generation of cognitive systems.** I specialize in building enterprise-grade LLM pipelines, autonomous agents, and ultra-fast data retrieval networks.
+
+### 🧠 Advanced RAG (Retrieval-Augmented Generation) Integration
+* **Hybrid Search Systems:** Vector embeddings integrated with dense/sparse retrieval techniques for zero-latency context injection.
+* **Agentic Workflows:** Autonomous loops utilizing state-of-the-art LLMs for multi-step reasoning, self-correction, and tool use.
+* **Vector DB Orchestration:** Scalable pipelines engineered for real-time document indexing, chunking optimization, and metadata filtering.
+
+---
+
+## 💻 Elite Tech Stack & Arsenal
+
+### 🐍 Core AI, ML & Data Science (The Backbone)
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 🧰 Tools & Databases
+### 🤖 Generative AI & Automation Powerhouses
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### ⚙️ DevOps & Cloud Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+## 🏆 GitHub Elite Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mnajeeb-4&theme=radical&no-bg=true&column=4" alt="Najeeb's Trophies" />
 </p>
 
 ---
@@ -61,23 +77,51 @@ Modern and powerful tools jo main use karta hoon:
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mnajeeb-4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Najeeb's GitHub Stats" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mnajeeb-4&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Najeeb's Stats" height="190px" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnajeeb-4&theme=tokyonight&hide_border=true" alt="Najeeb's Streak Stats" height="180px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnajeeb-4&theme=radical&hide_border=true" alt="Najeeb's Streak" height="190px" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnajeeb-4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnajeeb-4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="190px" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnajeeb-4&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
+## 📂 Featured Enterprise Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 NexusAI: Autonomous Multi-Agent RAG</h3>
+      <p>An enterprise-grade retrieval system utilizing dynamic chunking, vector embeddings, and cross-encoders for zero-hallucination semantic search.</p>
+      <p><b>Tech:</b> Python, LlamaIndex, FastAPI, Scikit-learn</p>
+    </td>
+    <td width="50%">
+      <h3>⚡ AutoFlow: Xtreme Web Automation Engine</h3>
+      <p>A heavy-duty scraping and pipeline automation engine designed to bypass complex anti-bot systems and extract big data smoothly.</p>
+      <p><b>Tech:</b> Selenium, OpenCV, Pandas, Streamlit</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mnajeeb-4/mnajeeb-4/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mnajeeb-4&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mnajeeb-4&color=00f2fe&style=flat-square" alt="Profile Views" />
   <br>
-  <sub>⚡ Powered by Glassmorphism Theme & Aesthetic Vibes ⚡</sub>
+  <sub>⚡ Powered by High-Level Quantum Glassmorphism Engine ⚡</sub>
 </div>
